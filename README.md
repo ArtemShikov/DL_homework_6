@@ -1,2 +1,2 @@
 # DL_homework_6
-ааааа
+https://artemshikov.github.io/DL_homework_6/
